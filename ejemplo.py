@@ -1,0 +1,2 @@
+palabra="CHAO"
+print(palabra)
